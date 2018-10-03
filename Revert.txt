@@ -1,1 +1,2 @@
 revert means undo(ctl+z).
+how to revert.
